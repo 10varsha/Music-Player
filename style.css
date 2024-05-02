@@ -71,7 +71,7 @@ nav .circle{
     background-color: #4721a7;
     cursor: pointer;
     border-radius: 4px ;
-    margin: 40px 0;
+    margin: 40px 0 12px 0px;
 }
 
 #progress::-webkit-slider-thumb{
@@ -111,4 +111,15 @@ nav .circle{
     transform: scale(1.5);
     background-color: #4721a7;
     color: #fff;
+}
+
+.time{
+    color: #fff;
+    font-size: 14px;
+    
+}
+
+#current-time{
+    position: relative;
+    margin-right: 270px;
 }

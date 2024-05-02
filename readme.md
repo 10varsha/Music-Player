@@ -1,8 +1,9 @@
-Music Player
+# Simple Music Player
 
-Simple Music Player is a lightweight web application designed to play your favorite music tracks directly from your browser. Built with HTML, CSS, and JavaScript, this music player offers a straightforward interface and an enjoyable user experience.
+Simple Music Player is a web application that allows users to play audio files directly from their browsers. It provides basic features such as play/pause controls, progress bar, and current time display.
 
-Features
+## Features
 
-Play/Pause Functionality: Toggle music playback with a simple click.
-Progress Bar: Visually track the progress of the current track.
+- **Play/Pause Controls:** Easily toggle between playing and pausing audio playback.
+- **Progress Bar:** Visual representation of the playback progress with the ability to seek to different positions.
+- **Current Time Display:** Real-time display of the current playback time in minutes and seconds.
